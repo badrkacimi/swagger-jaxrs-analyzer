@@ -1,5 +1,5 @@
 # Swagger-jax-rs_Analyzer
-simple projet : Generate API documentation swagger.json without Swagger annotations using jax-rs_Analyzer
+Simple projet : Generate API documentation swagger.json without Swagger annotations using jax-rs_Analyzer
 
 # How to run
 ```
