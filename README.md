@@ -1,8 +1,8 @@
-Swagger Core JAX RS Analyzer
+# Swagger Core JAX RS Analyzer
 
 Simple projet : Generate API documentation swagger.json without Swagger annotations using jax-rs_Analyzer
 
-# How to run
+## How to run
 ```
 mvn clean install
 ```
